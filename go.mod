@@ -1,1 +1,1 @@
-module "https://github.com/jamiebrynes7/docsy"
+module "github.com/jamiebrynes7/docsy"
